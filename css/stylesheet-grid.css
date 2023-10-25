@@ -126,6 +126,9 @@ a:hover {
       .sections {
         margin-left: 20%;
       }
+      .headings {
+        font-size: 3.5rem;
+     }
 }
 
 
@@ -140,8 +143,8 @@ a:hover {
       #profilepic{
         width: 200px;
         height: 200px;
-        align-self: center;
         margin-left: 2%;
+        align-self: baseline;
       }
 
       .mother-flex-container{
