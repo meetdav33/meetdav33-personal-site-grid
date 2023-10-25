@@ -149,15 +149,21 @@ a:hover {
       .sections{
         flex-direction: column;
         align-content:normal;
+        padding: 0%;
+        margin: 2%;
       }
+
      .header{
         align-items: baseline;
-        padding-left: 10px;
+        justify-content: left;
+
      }
      
      .sticky-container {
             display: flex;
             flex-direction: column;
+            align-items: baseline;
+            justify-content: left;
           }
      }
 
